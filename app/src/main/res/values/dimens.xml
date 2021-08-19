@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="editText_textSize">20sp</dimen>
+    <dimen name="marginTop_createaccount">30dp</dimen>
+    <dimen name="login_marginTop">30dp</dimen>
+    <dimen name="padding_create_account">30dp</dimen>
 </resources>
