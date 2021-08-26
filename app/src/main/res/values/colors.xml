@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="editText_textColorHint">@android:color/holo_green_dark</color>
+    <color name="editText_textColorHint">@color/colorAccent</color>
     <color name="colorPrimaryDark">#10BACB</color>
     <color name="colorAccent">#3F51B5</color>
     <color name="colorPrimary">#03A9F4</color>

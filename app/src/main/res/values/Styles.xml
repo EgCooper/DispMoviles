@@ -5,6 +5,8 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+    <style name="AppTheme.AppBarOverlay" parent="Theme.AppCompat.DayNight.DarkActionBar"/>
+        <style name="AppTheme.PopupOverlay" parent="Theme.AppCompat.Light"/>
     <style name="EditTextWhite" parent="Theme.AppCompat.Light">
         <item name="android:textSize">@dimen/editText_textSize</item>
         <item name="android:textColorHint">@color/editText_textColorHint</item>
